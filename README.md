@@ -86,14 +86,13 @@ python verification.py
 
 ---
 
-## 🖼️ Suggested Screenshots for /docs/screenshots/
+## 🖼️Screenshots
 
-1. `telegram_success.png` — successful alert in group
-2. `telegram_error.png` — hash mismatch warning
-3. `xo_api_sample.png` — sample backup job JSON or UI
-4. `nault_block.png` — block info showing hash in `link` field
-5. `anchor_json.png` — daily_log_anchor.json example
-6. `nano_proof.png` — nano_tx_proof.json example
+### ✅ Telegram Success
+![Telegram Success](docs/screenshots/telegram_success.png)
+
+### 📦 Nano Block with Hash
+![Nano Block](docs/screenshots/nault_block.png)
 
 ---
 

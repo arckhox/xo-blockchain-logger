@@ -1,0 +1,22 @@
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Node modules
+node_modules/
+
+# Environment / Secrets
+.env
+*.env
+*.token
+*.key
+
+# Output & Proof files
+daily_log_anchor.json
+nano_tx_proof.json
+
+# System files
+.DS_Store
+Thumbs.db

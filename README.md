@@ -91,7 +91,7 @@ python verification.py
 ### ✅ Telegram Success
 ![Telegram Success](docs/screenshots/telegram_success.png)
 
-### 📦 Nano Block with Hash
+### 📦 Nano Block on nanexplorer
 ![Nano Block](docs/screenshots/nault_block.png)
 
 ---
